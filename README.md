@@ -10,21 +10,21 @@ I am a passionate software developer with experience in a variety of technologie
       HTML  CSS  TailwindCSS  Bootstrap  JavaScript  React.js
 ```
 
-
-
-
 ### Backend
-- Node.js
-- Express.js
+```
+      Node.js  Express.js
+```
 
 ### Databases
-- SQL
-- MongoDB
+```
+      SQL  MongoDB
+```
 
 ### Other
-- Java
-- Git
-- GitHub
+
+```
+      Java  Git  GitHub  
+```
 
 ## Projects
 Here are some of the projects I've worked on:
@@ -37,4 +37,4 @@ Feel free to reach out to me via email at amana170829@gmail.com or connect with 
 ```
 
 
-Thank you for visiting my GitHub profile!
+##Thank you for visiting my GitHub profile!
