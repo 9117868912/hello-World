@@ -6,12 +6,41 @@ I am a passionate software developer with experience in a variety of technologie
 ## Skills
 
 ### Frontend
-- HTML
-- CSS
-- Tailwind CSS
-- Bootstrap
-- JavaScript
-- React.js
+```
+      HTML
+```
+
+```
+      CSS
+```
+
+```
+      Tailwind CSS
+```
+
+```
+      Bootstrap
+```
+
+```
+      JavaScript
+```
+
+```
+      React.js
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+
+
 
 ### Backend
 - Node.js
@@ -29,9 +58,12 @@ I am a passionate software developer with experience in a variety of technologie
 ## Projects
 Here are some of the projects I've worked on:
 ## Contact Me
-Feel free to reach out to me via email at [your.email@example.com](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile).
+Feel free to reach out to me via email at amana170829@gmail.com or connect with me on LinkedIn- https://www.linkedin.com/in/md-amanullah-ba7b17251/.
 
 ## Let's Connect!
-If you share similar interests or have any questions, let's connect on GitHub! I'm always open to collaboration and learning from fellow developers.
+```
+    If you share similar interests or have any questions, let's connect on GitHub! I'm always open to collaboration and learning from fellow developers.
+```
+
 
 Thank you for visiting my GitHub profile!
