@@ -23,7 +23,7 @@ I am a passionate software developer with experience in a variety of technologie
 ### Other
 
 ```
-      Java  Git  GitHub  Postman  XAMPP 
+      Java  Git  GitHub  Postman  
 ```
 
 ## Contact Me
