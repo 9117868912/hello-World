@@ -7,7 +7,7 @@ I am a passionate software developer with experience in a variety of technologie
 
 ### Frontend
 ```
-      HTML  CSS  TailwindCSS  Bootstrap  JavaScript  React.js  Redux
+      HTML  CSS  TailwindCSS  Bootstrap  JavaScript  React.js  
 ```
 
 ### Backend
